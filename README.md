@@ -17,18 +17,13 @@ This Python script transforms any video into a real-time ASCII art display, spec
 ## Installation
 1. Ensure Python 3.x is installed on your system.
 2. Install necessary Python libraries:
-pip install opencv-python numpy
-
-markdown
-Copy code
+```pip install opencv-python numpy```
 
 ## Usage
 1. Place the video file you wish to convert into the same directory as the script. Rename it to `LoyKrathongVDO.mp4` or modify the `video_path` variable in the script.
 2. Run the script:
-python ascii_video_converter.py
+```python ascii_video_converter.py```
 
-yaml
-Copy code
 3. Watch as your video is transformed into a stream of ASCII art in real-time.
 
 ## Customization
@@ -39,7 +34,9 @@ Copy code
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
 ## License
-This project is open-source and available under the MIT License.
+This project is open-source and available under a free license.
+
+This means that anyone is free to use, modify, and distribute the project without any restrictions. Feel free to contribute, fork, and adapt as you see fit!
 
 ---
 
